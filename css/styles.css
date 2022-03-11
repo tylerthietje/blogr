@@ -380,3 +380,8 @@ ul {
   text-decoration: underline;
   cursor: pointer;
 }
+
+
+@media only screen and (max-width: 345px) {
+  
+}
